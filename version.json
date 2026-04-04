@@ -1,4 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/latest"
+  "version": "0.0.1",
+  "release_date": "2026-04-04",
+  "notes": "ការចេញផ្សាយដំបូង (First Release)\n- មុខងារកាត់វីដេអូជាកង់ៗដោយប្រើ FFmpeg\n- បន្ថែម Progress Bar បង្ហាញភាគរយ\n- បន្ថែមប្រព័ន្ធឆែកកំណែថ្មី (Update Checker)",
+  "url": "https://github.com/YourUsername/YourRepoName/releases/tag/v0.0.1"
 }

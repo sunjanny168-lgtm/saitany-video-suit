@@ -1,6 +1,6 @@
 {
   "version": "0.0.4",
-  "release_date": "2026-04-04",
+  "release_date": "2026-04-05",
     "notes": "ការចេញផ្សាយដំបូង (First Release)\n- មុខងារកាត់វីដេអូជាកង់ៗដោយប្រើ FFmpeg\n- បន្ថែម Progress Bar បង្ហាញភាគរយ\n- បន្ថែមប្រព័ន្ធឆែកកំណែថ្មី (Update Checker)",
   "url": "https://github.com/sunjanny168-lgtm/saitany-video-suit/releases/download/v0.0.4/SaitanyVideoSuite.exe"
 }

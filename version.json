@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "release_date": "2026-04-05",
     "notes": "បន្ថែមជម្រើសកាត់វីដេអូចំវិនាទី ១០០% (Precise Split)\n- បន្ថែមមុខងារបង្កើនល្បឿនដោយប្រើកាតក្រាហ្វិក (NVIDIA NVENC & AMD AMF)\n- គាំទ្រការស្គាល់កាតក្រាហ្វិកលើសពី១ សម្រាប់ជម្រើស (Dual GPU Support)",
   "url": "https://github.com/sunjanny168-lgtm/saitany-video-suit/releases/download/v0.0.4/SaitanyVideoSuite.exe"
